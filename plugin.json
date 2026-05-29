@@ -1,0 +1,12 @@
+{
+  "ID": "231f66dc-d2eb-486c-a53c-51b65771069e",
+  "ActionKeywords": ["cleantemp", "clean"],
+  "Name": "Temp Folder Cleaner",
+  "Description": "Quickly flushes out AppData Temp, Windows Temp, and Prefetch directories.",
+  "Author": "Alessio",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "https://github.com/Flow-Launcher/Flow.Launcher",
+  "ExecuteFileName": "main.py",
+  "IcoPath": "Images/icon.png"
+}

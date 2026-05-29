@@ -1,0 +1,7 @@
+body:
+  - type: input
+    attributes:
+      name: temp_folders
+      label: "Temp Folders:"
+      defaultValue: "C:\\Users\\Alessio_Laptop\\AppData\\Local\\Temp;C:\\Windows\\Temp;C:\\Windows\\Prefetch"
+      description: "If there are multiple folders, separate them with ';'"
